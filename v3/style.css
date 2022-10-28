@@ -1,0 +1,29 @@
+button:hover {
+	background-color: DimGrey;
+	color: white;
+}
+
+a {
+	padding: 10px 20px;
+	color: Tomato; 
+	margin:5px;
+	margin-left:10px;
+}
+
+a:link {
+	color: Tomato; 
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	/* display: inline-block; */
+}
+
+a:hover, a:active {
+	background-color: Tomato;
+	color: white;
+}
+
+div, input, img {
+	margin:5px;
+	margin-left:10px;
+}
